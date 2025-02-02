@@ -8,7 +8,7 @@ PPBench:A benchmark for debugging PHP Python Languages
 <p style="text-align: center">
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social)](https://github.com/hiyouga/LLaMA-Factory/stargazers)
-[![GitHub last commit](https://img.shields.io/github/last-commit/NoumanAhmad448/PPBench/)](https://github.com/NoumanAhmad448/PPBench/commits/main)
+[![GitHub last commit](https://img.shields.io/github/last-commit/NoumanAhmad448/PPBench)](https://github.com/NoumanAhmad448/PPBench/commits/master)
 [![GitHub contributors](https://img.shields.io/github/contributors/hiyouga/LLaMA-Factory?color=orange)](https://github.com/hiyouga/LLaMA-Factory/graphs/contributors)
 [![GitHub workflow](https://github.com/hiyouga/LLaMA-Factory/actions/workflows/tests.yml/badge.svg)](https://github.com/hiyouga/LLaMA-Factory/actions/workflows/tests.yml)
 [![PyPI](https://img.shields.io/pypi/v/llamafactory)](https://pypi.org/project/llamafactory/)
