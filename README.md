@@ -5,16 +5,32 @@ PPBench
 PPBench:A benchmark for debugging PHP Python Languages
 </p>
 
-<p style="text-align: center">
+<div align="center">
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social)](https://github.com/hiyouga/LLaMA-Factory/stargazers)
-[![GitHub last commit](https://img.shields.io/github/last-commit/NoumanAhmad448/PPBench)](https://github.com/NoumanAhmad448/PPBench/commits/master)
-[![GitHub contributors](https://img.shields.io/github/contributors/hiyouga/LLaMA-Factory?color=orange)](https://github.com/hiyouga/LLaMA-Factory/graphs/contributors)
-[![GitHub workflow](https://github.com/hiyouga/LLaMA-Factory/actions/workflows/tests.yml/badge.svg)](https://github.com/hiyouga/LLaMA-Factory/actions/workflows/tests.yml)
-[![PyPI](https://img.shields.io/pypi/v/llamafactory)](https://pypi.org/project/llamafactory/)
-[![Citation](https://img.shields.io/badge/citation-238-green)](https://scholar.google.com/scholar?cites=12620864006390196564)
-[![GitHub pull request](https://img.shields.io/badge/PRs-welcome-blue)](https://github.com/hiyouga/LLaMA-Factory/pulls)
-</p>
+<a href="https://github.com/hiyouga/LLaMA-Factory/stargazers">
+    <img src="https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social" alt="GitHub Repo stars"/>
+</a>
+<a href="https://github.com/NoumanAhmad448/PPBench/commits/master">
+    <img src="https://img.shields.io/github/last-commit/NoumanAhmad448/PPBench" alt="GitHub last commit"/>
+</a>
+<a href="https://github.com/hiyouga/LLaMA-Factory/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/hiyouga/LLaMA-Factory?color=orange" alt="GitHub contributors"/>
+</a>
+<a href="https://github.com/hiyouga/LLaMA-Factory/actions/workflows/tests.yml">
+    <img src="https://github.com/hiyouga/LLaMA-Factory/actions/workflows/tests.yml/badge.svg" alt="GitHub workflow"/>
+</a>
+<a href="https://pypi.org/project/llamafactory/">
+    <img src="https://img.shields.io/pypi/v/llamafactory" alt="PyPI"/>
+</a>
+<a href="https://scholar.google.com/scholar?cites=12620864006390196564">
+    <img src="https://img.shields.io/badge/citation-238-green" alt="Citation"/>
+</a>
+<a href="https://github.com/hiyouga/LLaMA-Factory/pulls">
+    <img src="https://img.shields.io/badge/PRs-welcome-blue" alt="GitHub pull request"/>
+</a>
+
+</div>
+
 
 ## Table of Contents
 
