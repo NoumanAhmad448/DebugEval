@@ -36,7 +36,6 @@ PPBench:A benchmark for debugging PHP Python Languages
 
 - [Stackoverflow](#Stackoverflow)
 - [Github](#github)
-- [Kaggle](#kaggle)
 
 
 ## Stackoverflow
