@@ -64,32 +64,3 @@ PPBench:A benchmark for debugging PHP Python Languages
 },
 ```
 
-## Kaggle
-[Kaggle Chosen Notebooks](/kaggle_urls.txt)
-```
-Technical Summary:
-Avoid Duplication:
-
-A check is added to verify if a notebook has already been processed by checking a processed_urls.txt file. If a URL is already in this file, it is skipped to prevent duplication.
-Environment Variables:
-
-All important paths and settings are moved to an .env file. The following variables are used:
-URL_FILE: Path to the file containing notebook URLs.
-OUTPUT_FILE: Path to store the JSONL output.
-LOG_FILE: Path to store error logs.
-DEBUG_LOG_FILE: Path to store debug logs.
-PROCESSED_FILE: Path to store already processed URLs.
-Logging:
-
-logging module is used to log all actions.
-Errors are logged in error.log.
-Debug messages are logged in debug.log if the DEBUGGING flag is set to True.
-Logs include details of every action performed: reading URLs, fetching comments, processing notebooks, and writing the output.
-Duplication Check:
-
-Each notebook URL is checked against the processed_urls.txt file before being processed.
-If a notebook is already in the processed list, it is skipped, ensuring no duplication.
-Processed URL Tracking:
-
-After processing a notebook, its URL is written to processed_urls.txt to ensure it is not processed again in the future.
-```
