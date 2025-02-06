@@ -41,7 +41,10 @@ PPBench:A benchmark for debugging PHP Python Languages
 ## Stackoverflow
 [All Stackoverflow Chosen Tags List by using StackAPI Resource](/stackoverflow_unique_tags.json)
 <br/>
-[Stack API Link](https://api.stackexchange.com/docs/related-tags)
+We use following apis for collecting the questions and answers
+- [Stack API Link](https://api.stackexchange.com/docs/related-tags)
+- [Search Questions](https://api.stackexchange.com/docs/advanced-search)
+- [Search Answers ](https://api.stackexchange.com/docs/answers-on-questions)
 
 Basic List of Python list <br/>
 ```
