@@ -39,8 +39,19 @@ PPBench:A benchmark for debugging PHP Python Languages
 
 
 ## Stackoverflow
-[Stackoverflow Chosen Tags List](/stackoverflow_unique_tags.json)
+[All Stackoverflow Chosen Tags List by using StackAPI Resource](/stackoverflow_unique_tags.json)
+<br/>
+[Stack API Link](https://api.stackexchange.com/2.3/tags/{tag}/related)
 
+Basic List of Python list <br/>
+```
+NumPy, pandas, Matplotlib, Seaborn, SciPy, Scikit-learn, TensorFlow, Keras, PyTorch, Statsmodels, NLTK, SpaCy, Gensim, XGBoost, LightGBM, CatBoost, OpenCV, Pillow, Plotly, Bokeh, Dask, PySpark, NetworkX, Yellowbrick, Eli5, SHAP, Feature-engine, Imbalanced-learn, Pandas-profiling, Streamlit, Dash, FastAPI, SQLAlchemy, PyMySQL, Psycopg2, BeautifulSoup, Requests, Scrapy, PyOD, Prophet, PyCaret, Django, Flask, Theano, Caffe, MXNet, Numba, Cython, Joblib, Pickle.
+```
+
+Basic List of PHP
+```
+Laravel, Symfony, CodeIgniter, Zend Framework, Phalcon, Slim, Yii, CakePHP, Laminas, FuelPHP, Aura, PHPUnit, Guzzle, Monolog, PHP-DI, Twig, Blade, Doctrine, Eloquent, Propel, PHPExcel, PHPMailer, Swift Mailer, Faker, Carbon, PHP_CodeSniffer, PHPStan, Psalm, Composer, Packagist, PHPCS Fixer, PHP Mess Detector, PHPCPD, PHPBench, PHP_CompatInfo, PHP_CodeCoverage, PHP_Formatter, PHP_TokenStream, PHP_Reflection, PHP_Parser, PHP_CodeBrowser, PHP_Depend, PHP_ChangeLog, PHP_Documentor, PHP_UML, PHP_Beautifier, PHP_Compat, PHP_Console_Color, PHP_Console_Table, PHP_Console_ProgressBar
+```
 ```
 {
   "question_id": "39402823",
