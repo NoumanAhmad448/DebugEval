@@ -42,7 +42,7 @@ PPBench:A benchmark for debugging PHP Python Languages
 [All Stackoverflow Chosen Tags List by using StackAPI Resource](/stackoverflow_unique_tags.json)
 <br/>
 We use following apis for collecting the questions and answers
-- [Stack API Link](https://api.stackexchange.com/docs/related-tags)
+- [Stack API for collecting all related tags](https://api.stackexchange.com/docs/related-tags)
 - [Search Questions](https://api.stackexchange.com/docs/advanced-search)
 - [Search Answers ](https://api.stackexchange.com/docs/answers-on-questions)
 
@@ -68,6 +68,11 @@ Laravel, Symfony, CodeIgniter, Zend Framework, Phalcon, Slim, Yii, CakePHP, Lami
 
 ## Github
 [Github chosen Repositories](/github_repos.json)
+
+We use following APIs for collecting the issues
+- [Repo Issues](https://docs.github.com/en/rest/issues/issues)
+- [Issues Related Comments](https://docs.github.com/en/rest/issues/comments)
+  
 ```
 {
     "instruction": "BUG: array.ctypes.data_as is not memory safe",
