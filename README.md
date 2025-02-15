@@ -1,8 +1,8 @@
 <h3 align="center">
-PPBench
+DebugEval
 </h3>
 <p align="center">
-PPBench:A benchmark for debugging PHP Python Languages
+DebugEval:A benchmark for debugging PHP Python Languages
 </p>
 
 <div align="center">
@@ -10,8 +10,8 @@ PPBench:A benchmark for debugging PHP Python Languages
 <a href="https://github.com/hiyouga/LLaMA-Factory/stargazers">
     <img src="https://img.shields.io/github/stars/hiyouga/LLaMA-Factory?style=social" alt="GitHub Repo stars"/>
 </a>
-<a href="https://github.com/NoumanAhmad448/PPBench/commits/master">
-    <img src="https://img.shields.io/github/last-commit/NoumanAhmad448/PPBench" alt="GitHub last commit"/>
+<a href="https://github.com/NoumanAhmad448/DebugEval/commits/master">
+    <img src="https://img.shields.io/github/last-commit/NoumanAhmad448/DebugEval" alt="GitHub last commit"/>
 </a>
 <a href="https://github.com/hiyouga/LLaMA-Factory/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/hiyouga/LLaMA-Factory?color=orange" alt="GitHub contributors"/>
