@@ -2,7 +2,7 @@
 DebugEval
 </h3>
 <p align="center">
-DebugEval:A benchmark for debugging PHP Python Languages
+DebugEval:A benchmark for debugging Programming Languages
 </p>
 
 <div align="center">
